@@ -5,9 +5,6 @@
 
 <img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudul-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudul-dev" alt="mahamudul-dev" /></a> </p>
 
 - 🔭 I’m currently working on **E-shoppers**
 
